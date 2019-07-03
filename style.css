@@ -103,7 +103,7 @@ header a:hover{
 /* showcase */
 #showcase{
     height:400px;
-    background-image: url(homeiamge.jpg);
+    background-image: url(homeimage.jpg);
     background-position: bottom;
     background-size: cover;
     text-size-adjust: 20;
