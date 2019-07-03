@@ -1,0 +1,109 @@
+/* <style type="text/css">  */  
+body {     text-align: center;     
+    background-color: rgb(224, 220, 213);     
+    padding: 100px;     
+    padding-top: 10px; 
+}  
+.svgClass {     background-color:gray;     
+    float:left;     
+    width:70%;     
+    color:#fff;     
+    padding:10px;    
+     box-sizing:border-box; 
+    } 
+    polygon{     fill:white; 
+        transition: 1s fill; 
+    }
+     polygon:hover {     fill: burlywood;      
+     } 
+     .lideta { stroke:yellow;
+        stroke-width: 2px;
+        stroke-dasharray: 3; 
+        fill:gainsboro; 
+        fill-opacity: 50%;
+    } 
+    .kirkos{stroke:greenyellow;
+        stroke-width: 2px;
+        stroke-dasharray: 3; 
+        fill:gainsboro; 
+        fill-opacity: 10%;
+    } 
+    .nifassilk{stroke:goldenrod;
+        stroke-width: 2px;
+        stroke-dasharray: 3; 
+        fill: gainsboro; 
+        fill-opacity: 50%;} 
+.akakikaliti {stroke:olive;
+    stroke-width: 2px
+    ;stroke-dasharray: 3; 
+    fill:gainsboro; 
+    fill-opacity: 10%;
+} 
+.yeka{stroke:lawngreen;
+    stroke-width: 2px;
+    stroke-dasharray: 3;
+    fill:gainsboro; 
+    fill-opacity: 10%;
+} 
+.bole{stroke:green;
+    stroke-width: 2px;
+    stroke-dasharray: 3; 
+    fill:gainsboro; 
+}
+.kolfekeraniyo{stroke: khaki;
+    stroke-width: 2px;
+    stroke-dasharray: 3; 
+    fill: gainsboro; 
+    fill-opacity: 50%;
+} 
+.addisketema{stroke:palegoldenrod;
+    stroke-width: 2px;
+    stroke-dasharray: 3; 
+    fill:gainsboro;
+    fill-opacity: 50%;
+} 
+.arada{stroke:peru;stroke-width: 2px;stroke-dasharray: 3; 
+    fill:gainsboro; 
+} 
+.gulele{stroke:orange;stroke-width: 2px;
+     stroke-dasharray: 3; 
+     fill:gainsboro; 
+     fill-opacity: 50%;}  
+.removed{ display: none; 
+} 
+button{  
+    position: relative;     
+    color: white;     
+    font-size: 20px;     
+    background:gray;    
+     border:none;     
+     outline: none;     
+     left: 0%;     
+     width: 260px;     
+     text-align: left; 
+    }
+     button.hover{     fill: whitesmoke; 
+    }
+     #sidebar{     text-align: left;     
+        float:right;    
+         width:30%;     
+         background:none;     
+         color:#fff;     
+         padding:0px;     
+         box-sizing:border-box; } 
+         .container{
+            width:80%;
+            margin:auto;
+            overflow:hidden;}#navbar{
+                background-color: #333;
+                color:#fff;}
+            #navbar ul{
+                padding: 0;
+                list-style: none;}
+            #navbar li{
+                display:inline;}
+            #navbar a{
+                color:#fff;
+                text-decoration: none;
+                font-size: 18px;
+                padding-right:30px;}
